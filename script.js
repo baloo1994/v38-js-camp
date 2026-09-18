@@ -1,3 +1,10 @@
-console.log("Nord Glow");
-console.log("Nord Glow");
-console.log("Nord Glow");
+const eventName = "Tallest man on Earth";
+let ticketCount = 0;
+
+console.log(eventName);
+console.log(eventName);
+ticketCount = 10;
+console.log(ticketCount);
+
+const isVip = false;
+console.log(isVip);
